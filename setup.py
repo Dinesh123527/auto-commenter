@@ -13,7 +13,7 @@ setup(
     description='A Python package for automatically generating docstrings based on function arguments and return types.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/yourusername/auto-commenter',
+    url='https://github.com/Dinesh123527/auto-commenter',
     classifiers=[
         'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
